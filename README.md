@@ -1,1 +1,1 @@
-# Fake-New-LSTM
+# Fake-News-Classification-LSTM
